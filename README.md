@@ -1,6 +1,7 @@
 # PM_PlanificarUnaReunion
 Actividad: Planificar una reunión e informar al equipo
 
+
 [![TPDetalles-De-Reunion1-A.png](https://i.postimg.cc/kGLqS3GZ/TPDetalles-De-Reunion1-A.png)](https://postimg.cc/wR5CKrhc)
 
 [![TPDetalles-De-Reunion1-B.png](https://i.postimg.cc/kMHnz8sc/TPDetalles-De-Reunion1-B.png)](https://postimg.cc/4nzkhYr7)
